@@ -1394,6 +1394,12 @@
             "16.3.1"
         ]
     },
+    "11d825743460cb8febe5353efd97d0a2e91b9ebf": {
+        "build": "gitlab-ce",
+        "versions": [
+            "19.4.11"
+        ]
+    },
     "1202cc0addb5a294e0c0": {
         "build": "gitlab-ee",
         "versions": [
@@ -4362,6 +4368,12 @@
         "build": "gitlab-ce",
         "versions": [
             "12.3.1"
+        ]
+    },
+    "34705805417d7986509e0392fc30e24d15e74a82": {
+        "build": "gitlab-ee",
+        "versions": [
+            "19.4.11"
         ]
     },
     "34762850cf3be81906e3": {
@@ -9485,6 +9497,12 @@
             "13.8.1"
         ]
     },
+    "727e4e3be83a72224aa2": {
+        "build": "gitlab-ee",
+        "versions": [
+            "19.5.9"
+        ]
+    },
     "72933074cd143b70e6dd": {
         "build": "gitlab-ee",
         "versions": [
@@ -11144,6 +11162,7 @@
         "build": "gitlab-ce",
         "versions": [
             "19.4.10",
+            "19.4.11",
             "19.4.8"
         ]
     },
@@ -11750,6 +11769,12 @@
         "build": "gitlab-ce",
         "versions": [
             "9.3.11"
+        ]
+    },
+    "8e69393a673406f2e420ca3d72f40126a8ba3bf4": {
+        "build": "gitlab-ce",
+        "versions": [
+            "19.5.9"
         ]
     },
     "8e822f5fdacde66fe2e6": {
@@ -14326,6 +14351,12 @@
         "build": "gitlab-ce",
         "versions": [
             "10.1.2"
+        ]
+    },
+    "af63f84bf70ad6e3026e7d8f32aaaff6b79ae86b": {
+        "build": "gitlab-ee",
+        "versions": [
+            "19.5.9"
         ]
     },
     "af6735ad95ff7a4578c8548d37ce9e8247385d5e": {
@@ -18037,6 +18068,12 @@
             "16.0.4"
         ]
     },
+    "de6a778cea7b56e7d4ad": {
+        "build": "gitlab-ee",
+        "versions": [
+            "19.4.11"
+        ]
+    },
     "de8f661903191da84846d0fb1e2ba3ac44f622ab": {
         "build": "gitlab-ce",
         "versions": [
@@ -20463,7 +20500,8 @@
         "build": "gitlab-ce",
         "versions": [
             "19.5.6",
-            "19.5.8"
+            "19.5.8",
+            "19.5.9"
         ]
     },
     "fcd107681ab480f87d5328367d25734ef5b81046": {
